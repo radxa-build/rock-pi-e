@@ -7,9 +7,7 @@ This repo is the central location for Radxa-built system images for ROCK Pi E.
 
 ## Is there any other options?
 
-Armbian users are strongly recommended to use [Armbian official image](https://www.armbian.com/rockpie/).
-
-Please visit [our Wiki](https://wiki.radxa.com/RockpiE/downloads) for more download options.
+- [Armbian](https://www.armbian.com/rockpie/).
 
 ## Help! Something doesn't work!
 

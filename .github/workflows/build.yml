@@ -28,7 +28,7 @@ jobs:
         boards: [rock-pi-e]
         build_systems: [rbuild]
         distros: [debian, ubuntu]
-        flavors: [kde, cli]
+        flavors: [xfce, cli]
         exclude:
           - build_systems: debos
             distros: debian
